@@ -1,0 +1,2 @@
+# OptiRoute-Efficient-Vehicle-Routing-with-Parallel-Computing
+OptiRoute é uma coleção de algoritmos otimizados para resolver o problema de roteamento de veículos (VRP). Explora métodos exatos, heurísticas e paralelização em CPUs e GPUs. A implementação com GPU, utilizando Thrust, destaca-se como a solução mais eficiente, reduzindo significativamente os tempos de execução para grandes conjuntos de dados.
